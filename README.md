@@ -9,7 +9,7 @@
       height="180em" 
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=theyCallMeDudu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
   />
-  <img width="42%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyCallMeDudu&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="43%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyCallMeDudu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
