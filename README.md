@@ -1,7 +1,9 @@
-### Olá! Eu sou Eduardo Coelho👋
+### Hi! I'm Eduardo Coelho👋
 
-- 😄 Pronomes: ele/dele
-- 🔭 Atualmente trabalho como Desenvolvedor PHP Júnior
+- 😄 Pronouns: He/Him;
+- 🔭 I currently work as a junior full stack developer;
+- ❤️🖤 Flamengo fan;
+- 🏎️ F1 fan.
 
 <div>
   <a href="https://github.com/theyCallMeDudu">
