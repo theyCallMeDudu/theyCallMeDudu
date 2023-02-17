@@ -2,8 +2,8 @@
 
 - 😄 Pronouns: He/Him;
 - 🔭 I currently work as a junior full stack developer;
-- ❤️🖤 Flamengo fan;
-- 🏎️ F1 fan.
+- ⚽ CR Flamengo fan;
+- 🏎️ Mercedes-AMG fan.
 
 <div>
   <a href="https://github.com/theyCallMeDudu">
