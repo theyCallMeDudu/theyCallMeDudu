@@ -1,4 +1,4 @@
-### Hi! I'm Eduardo Coelho👋
+### Hi! I'm Eduardo 👋
 
 - 😄 Pronouns: He/Him;
 - 🔭 I currently work as a junior full stack developer;
