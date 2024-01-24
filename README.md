@@ -1,7 +1,7 @@
 ### Hi! I'm Eduardo 👋
 
 - 😄 Pronouns: He/Him;
-- 🔭 I currently work as a junior full stack developer;
+- 🔭 I currently work as a full stack developer;
 - ⚽ CR Flamengo and Chelsea FC fan;
 - 🏎️ Formula 1 fan.
 
