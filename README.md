@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him;
 - 🔭 I currently work as a junior full stack developer;
 - ⚽ CR Flamengo and Chelsea FC fan;
-- 🏎️ Lewis Hamilton fan.
+- 🏎️ Formula 1 fan.
 
 <div>
   <a href="https://github.com/theyCallMeDudu">
