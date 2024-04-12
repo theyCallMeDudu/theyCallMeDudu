@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him;
 - 🔭 I currently work as a full stack developer;
-- ⚽ CR Flamengo and Chelsea FC fan;
+- ⚽ CR Flamengo and Liverpool FC fan;
 - 🏎️ Formula 1 fan.
 
 <div>
