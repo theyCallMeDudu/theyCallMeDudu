@@ -8,10 +8,12 @@
 <div>
   <a href="https://github.com/theyCallMeDudu">
   <img 
-      height="180em" 
+      height="180em"
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=theyCallMeDudu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
   />
-  <img width="44%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyCallMeDudu&layout=compact&langs_count=7&theme=gotham"/>
+  <img 
+      height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyCallMeDudu&layout=compact&langs_count=8&theme=gotham"/>
 </div>
 
 ### Languages and tools known 🛠️
