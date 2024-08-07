@@ -13,7 +13,7 @@
   />
   <img 
       height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyCallMeDudu&layout=compact&langs_count=8&theme=gotham"/>
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theyCallMeDudu&layout=compact&langs_count=6&theme=gotham"/>
 </div>
 
 ### Languages and tools known 🛠️
